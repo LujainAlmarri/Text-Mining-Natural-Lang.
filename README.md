@@ -1,5 +1,7 @@
 # Text-Mining-Natural-Lang.
 This repository contains a collection of labs from the Text Mining &amp; Natural Language Processing course. These labs demonstrate practical applications of NLP concepts, focusing on data analysis, preprocessing, and advanced techniques such as sentiment analysis, topic modeling, and generative AI.
+
+
 Lab 1: Data Analysis with Pandas
 Exploratory data analysis using Pandas, focusing on text data manipulation and basic statistics.
 
