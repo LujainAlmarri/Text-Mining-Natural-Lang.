@@ -1,17 +1,7 @@
 Downloading Pre-trained Models:
 
-1. Word2Vec (CBOW): Download the pre-trained CBOW Word2Vec model from the following link:
-   <URL> 
-   Place it in the same directory as the notebook.
+1. Word2Vec (CBOW)
+2. Word2Vec (Skip Gram)
+3. FastText
 
-2. Word2Vec (Skip Gram): Download the pre-trained Skip Gram Word2Vec model from the following link:
-   <URL>
-   Place it in the same directory as the notebook.
 
-3. FastText: Download the pre-trained FastText model from this link:
-   <https://fasttext.cc/docs/en/crawl-vectors.html>
-   Place it in the same directory as the notebook.
-
-Image of Pre-trained Models:
-To view the image related to pre-trained models, check the image at:
-<path_to_image/image_name.jpg>
